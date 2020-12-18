@@ -8,6 +8,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
                     Test another branch to see if I can have a seperate website
+                    v2
                 </p>
                 <a
                     className="App-link"
